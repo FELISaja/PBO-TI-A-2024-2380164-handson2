@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class soal3 {
     public static void main(String[] args) {
-        int operand[] = new int[2];
+        int operand[]= new int[2];
         int sum = 0;
         int typesOfOperator = 0;
         Scanner input = new Scanner(System.in);
